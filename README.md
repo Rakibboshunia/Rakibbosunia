@@ -7,10 +7,10 @@ I’m a Front End Web developer who is passionate about making error-free websit
 Skills: REACT / JS / HTML / CSS / PHP
 
 - 🔭 I’m currently working on Not Working bt i am still CSE Student 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning MERN STACK 
 - 👯 I’m looking to collaborate on  Git & GitHub 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: Regularly Practice 
+- 📫 How to reach me: Regularly Practice
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibbosunia&label=Profile%20views&color=0e75b6&style=flat" alt="rakibbosunia" /> </p>
 
