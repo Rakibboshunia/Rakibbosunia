@@ -1,34 +1,140 @@
-### Hi there 👋, AL-Rakib Boshunia
-#### Softwere Developer [MERN]
-![Web Developer](https://images-ihjoz-com.s3.amazonaws.com/events/cover/810/event_cover_web_dev_banner_for_ihjoz.jpg)
+<!-- ================= HEADER BANNER ================= -->
 
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind.
-
-Frontend: HTML / CSS / JAVASCRIPT / REACT
-Backend: NODE JS / EXPRESS JS / MONGODB
-Framework: BOOTSTRAP / TAILWIND CSS 
-Others Language: C / C++
-
-- 🔭 I’m currently working on Not Working bt i am still CSE Student 
-- 🌱 I’m currently learning MERN STACK 
-- 👯 I’m looking to collaborate on  Git & GitHub 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: Regularly Practice
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibbosunia&label=Profile%20views&color=0e75b6&style=flat" alt="rakibbosunia" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md al rakeb rasel boshunia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md al rakeb rasel boshunia" height="30" width="40" /></a>
-<a href="https://fb.com/al rakeb boshunia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="al rakeb boshunia" height="30" width="40" /></a>
-<a href="https://instagram.com/alrakib.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alrakib.official" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=MD%20AL%20RAKEB%20RASEL%20BOSHUNIA&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h3 align="center">
+🚀 Software Developer | React Frontend | Node.js & Python Backend
+</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibbosunia&show_icons=true&locale=en&layout=compact" alt="rakibbosunia" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=8BC53F&center=true&vCenter=true&width=750&lines=Web+Developer+from+Bangladesh;React+Frontend+Specialist;Node.js+%26+Python+Backend+Developer;Building+Scalable+Web+Applications;Clean+Code+%7C+Real+World+Projects;Always+Learning+Always+Building" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibbosunia&show_icons=true&locale=en" alt="rakibbosunia" /></p>
+<!-- ================= PROFILE PHOTO ================= -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibbosunia&" alt="rakibbosunia" /></p>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Rakibboshunia/Rakibboshunia/main/assets/profile.jpg"
+    alt="MD AL RAKEB RASEL BOSHUNIA."
+    width="180"
+    style="border-radius:50%; border:4px solid #8BC53F;"
+  />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rakibboshunia&label=Profile%20Views&color=8BC53F&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Rakibboshunia?label=Followers&style=for-the-badge&color=8BC53F" />
+  <img src="https://img.shields.io/github/stars/Rakibboshunia?label=Stars&style=for-the-badge&color=8BC53F" />
+</p>
+
+---
+
+## 🧑‍🚀 About Me
+
+🎓 BSc in **Computer Science & Engineering (CSE)** from **Dhaka International University**  
+💻 Professional **Web Developer** passionate about building modern web applications  
+⚛️ Frontend specialist in **React.js**  
+🧠 Backend development using **Node.js & Python**
+
+🎯 **Mission:**  
+Build modern, scalable, secure, and high-performance web applications that solve real-world problems.
+
+---
+
+## 🏆 GitHub Achievements (Official)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rakibboshunia&theme=onedark&no-frame=true&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆%20Arctic%20Code%20Vault%20Contributor-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠%20Pull%20Shark-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔥%20YOLO-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀%20Quickdraw-green?style=for-the-badge" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,mongodb,postgres,git,github,vite" />
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+### 🚀 MERN Admin Dashboard
+- Role-based access (Admin / Staff / Manager)
+- Analytics, users & data management
+- React + Node.js + MongoDB
+
+### 🤖 AI Phone Assistant Dashboard
+- Call logs & interaction analytics
+- Admin control panel
+- Scalable backend architecture
+
+### 🛒 Full-Stack E-Commerce Platform
+- Product, order & user management
+- Secure authentication
+- Performance-optimized UI
+
+### 🌐 Personal Portfolio Website
+- Professional branding
+- Project showcase
+- Fully responsive design
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakibboshunia&show_icons=true&theme=dracula&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibboshunia&layout=compact&theme=dracula" height="160" />
+</div>
+
+---
+
+## 🚀 What I Do
+
+✅ Frontend Development with **React.js**  
+✅ Backend APIs using **Node.js & Python**  
+✅ Role-based Authentication Systems  
+✅ Admin Dashboards & Analytics  
+✅ Clean Code & Performance Optimization  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:official.alrakib@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://in/rakib-bosunia-0a9920233/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Rakibboshunia" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rakibboshunia/snake/output/snake.svg" />
+</p>
+
+---
+
+<h3 align="center">
+✨ Code • Build • Improve • Repeat ✨
+</h3>
