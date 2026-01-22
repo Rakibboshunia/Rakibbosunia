@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=8BC53F&center=true&vCenter=true&width=750&lines=Web+Developer+from+Bangladesh;React+Frontend+Specialist;Node.js+%26+Python+Backend+Developer;Building+Scalable+Web+Applications;Clean+Code+%7C+Real+World+Projects;Always+Learning+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=8BC53F&center=true&vCenter=true&width=750&lines=Software+Developer+from+Bangladesh;React+Frontend+Specialist;Node.js+%26+Python+Backend+Developer;Building+Scalable+Web+Applications;Clean+Code+%7C+Real+World+Projects;Always+Learning+Always+Building" />
 </p>
 
 <!-- ================= PROFILE PHOTO ================= -->
