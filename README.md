@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/github/stars/Rakibboshunia?label=Stars&style=for-the-badge&color=8BC53F" />
 </p>
 
----
 
 ## 🧑‍🚀 About Me
 
@@ -41,7 +40,6 @@
 🎯 **Mission:**  
 Build modern, scalable, secure, and high-performance web applications that solve real-world problems.
 
----
 
 ## 🏆 GitHub Achievements (Official)
 
@@ -56,7 +54,6 @@ Build modern, scalable, secure, and high-performance web applications that solve
   <img src="https://img.shields.io/badge/🚀%20Quickdraw-green?style=for-the-badge" />
 </p>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -64,7 +61,6 @@ Build modern, scalable, secure, and high-performance web applications that solve
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,mongodb,postgres,git,github,vite" />
 </p>
 
----
 
 ## ⭐ Featured Projects
 
@@ -88,7 +84,6 @@ Build modern, scalable, secure, and high-performance web applications that solve
 - Project showcase
 - Fully responsive design
 
----
 
 ## 📊 GitHub Stats
 
@@ -97,7 +92,6 @@ Build modern, scalable, secure, and high-performance web applications that solve
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibboshunia&layout=compact&theme=dracula" height="160" />
 </div>
 
----
 
 ## 🚀 What I Do
 
@@ -107,7 +101,6 @@ Build modern, scalable, secure, and high-performance web applications that solve
 ✅ Admin Dashboards & Analytics  
 ✅ Clean Code & Performance Optimization  
 
----
 
 ## 🌐 Connect With Me
 
@@ -125,7 +118,6 @@ Build modern, scalable, secure, and high-performance web applications that solve
   </a>
 </p>
 
----
 
 ## 🐍 Contribution Snake
 
@@ -133,7 +125,6 @@ Build modern, scalable, secure, and high-performance web applications that solve
   <img src="https://raw.githubusercontent.com/Rakibboshunia/snake/output/snake.svg" />
 </p>
 
----
 
 <h3 align="center">
 ✨ Code • Build • Improve • Repeat ✨
