@@ -1,6 +1,10 @@
 <!-- ================= HEADER BANNER ================= -->
 
 <p align="center">
+  <img src="assets/github cover.gif" alt="Programming Banner" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=MD%20AL%20RAKEB%20RASEL%20BOSHUNIA&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
