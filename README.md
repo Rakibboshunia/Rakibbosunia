@@ -55,7 +55,7 @@ Build modern, scalable, secure, and high-performance web applications that solve
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rakibboshunia&theme=onedark&no-frame=true&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rakibboshunia&theme=dracula&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---
@@ -64,9 +64,9 @@ Build modern, scalable, secure, and high-performance web applications that solve
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rakibboshunia&show_icons=true&theme=dracula&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rakibboshunia&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibboshunia&layout=compact&theme=dracula" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibboshunia&layout=compact&theme=dracula&cache_seconds=1800" height="170"/>
 
 </p>
 
@@ -75,7 +75,7 @@ Build modern, scalable, secure, and high-performance web applications that solve
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakibboshunia&theme=dracula" />
+<img src="https://streak-stats.demolab.com?user=Rakibboshunia&theme=dracula"/>
 </p>
 
 ---
