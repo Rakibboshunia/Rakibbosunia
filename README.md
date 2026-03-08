@@ -3,11 +3,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="2000">
 
 <p align="center">
-  <img src="assets/github cover.gif" alt="Programming Banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=MD%20AL%20RAKEB%20RASEL%20BOSHUNIA&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=MD%20AL%20RAKEB%20RASEL%20BOSHUNIA&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <h3 align="center">
@@ -18,120 +14,169 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=8BC53F&center=true&vCenter=true&width=750&lines=Software+Developer+from+Bangladesh;React+Frontend+Specialist;Node.js+%26+Python+Backend+Developer;Building+Scalable+Web+Applications;Clean+Code+%7C+Real+World+Projects;Always+Learning+Always+Building" />
 </p>
 
-<!-- ================= PROFILE PHOTO ================= -->
+---
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Rakibboshunia/Rakibboshunia/main/assets/profile.jpg"
-    alt="MD AL RAKEB RASEL BOSHUNIA."
-    width="180"
-    style="border-radius:50%; border:4px solid #8BC53F;"
-  />
-</p>
+# 👋 About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rakibboshunia&label=Profile%20Views&color=8BC53F&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Rakibboshunia?label=Followers&style=for-the-badge&color=8BC53F" />
-  <img src="https://img.shields.io/github/stars/Rakibboshunia?label=Stars&style=for-the-badge&color=8BC53F" />
-</p>
+🎓 BSc in **Computer Science & Engineering (CSE)**  
+🏫 **Dhaka International University**
 
+💻 Professional **Full Stack Web Developer**
 
-## 🧑‍🚀 About Me
+⚛️ Frontend Specialist → **React.js**  
+🧠 Backend Development → **Node.js & Python**
 
-🎓 BSc in **Computer Science & Engineering (CSE)** from **Dhaka International University**  
-💻 Professional **Web Developer** passionate about building modern web applications  
-⚛️ Frontend specialist in **React.js**  
-🧠 Backend development using **Node.js & Python**
+🎯 **Mission**
 
-🎯 **Mission:**  
 Build modern, scalable, secure, and high-performance web applications that solve real-world problems.
 
+---
 
-## 🏆 GitHub Achievements (Official)
+# 🚀 What I Do
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rakibboshunia&theme=onedark&no-frame=true&column=7" />
-</p>
+✔ React Frontend Development  
+✔ Full Stack MERN Applications  
+✔ Node.js REST APIs  
+✔ Python Backend Services  
+✔ Authentication Systems  
+✔ Admin Dashboards & Analytics  
+✔ Performance Optimization
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆%20Arctic%20Code%20Vault%20Contributor-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧠%20Pull%20Shark-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔥%20YOLO-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀%20Quickdraw-green?style=for-the-badge" />
-</p>
+---
 
-
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,mongodb,postgres,git,github,vite" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,mongodb,postgres,git,github,vite" />
 </p>
 
+---
 
-## ⭐ Featured Projects
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rakibboshunia&theme=onedark&no-frame=true&column=7" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rakibboshunia&show_icons=true&theme=dracula&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibboshunia&layout=compact&theme=dracula" height="170"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakibboshunia&theme=dracula" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakibboshunia&theme=react-dark"/>
+</p>
+
+---
+
+# ⭐ Featured Projects
 
 ### 🚀 MERN Admin Dashboard
-- Role-based access (Admin / Staff / Manager)
-- Analytics, users & data management
-- React + Node.js + MongoDB
+
+• Role Based Access (Admin / Staff / Manager)  
+• Analytics & Data Management  
+• React + Node.js + MongoDB  
+
+---
 
 ### 🤖 AI Phone Assistant Dashboard
-- Call logs & interaction analytics
-- Admin control panel
-- Scalable backend architecture
 
-### 🛒 Full-Stack E-Commerce Platform
-- Product, order & user management
-- Secure authentication
-- Performance-optimized UI
+• Call Logs & Analytics  
+• Admin Control Panel  
+• Scalable Backend Architecture  
+
+---
+
+### 🛒 Full Stack E-Commerce Platform
+
+• Product & Order Management  
+• Secure Authentication  
+• Performance Optimized UI  
+
+---
 
 ### 🌐 Personal Portfolio Website
-- Professional branding
-- Project showcase
-- Fully responsive design
 
+• Professional Branding  
+• Project Showcase  
+• Fully Responsive Design  
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakibboshunia&show_icons=true&theme=dracula&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibboshunia&layout=compact&theme=dracula" height="160" />
-</div>
+# 🔭 Currently Working On
 
+• Advanced **React Applications**  
+• **Scalable Backend APIs**  
+• **AI Integration in Web Apps**
 
-## 🚀 What I Do
+---
 
-✅ Frontend Development with **React.js**  
-✅ Backend APIs using **Node.js & Python**  
-✅ Role-based Authentication Systems  
-✅ Admin Dashboards & Analytics  
-✅ Clean Code & Performance Optimization  
+# 💼 Open To Work
 
+✔ Freelance Projects  
+✔ Remote Software Developer Roles  
+✔ React Frontend Development  
+✔ MERN Stack Projects
 
-## 🌐 Connect With Me
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
-  <a href="mailto:official.alrakib@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 
-  <a href="https://in/rakib-bosunia-0a9920233/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="mailto:official.alrakib@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/Rakibboshunia" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://in/rakib-bosunia-0a9920233/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Rakibboshunia" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
+---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rakibboshunia/snake/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/Rakibboshunia/snake/output/snake.svg"/>
 </p>
 
+---
+
+# 💡 Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+---
 
 <h3 align="center">
+
 ✨ Code • Build • Improve • Repeat ✨
+
 </h3>
